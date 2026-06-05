@@ -30,4 +30,4 @@ To communicate with the assistant, you will need a valid **Groq API Key**. You c
 
 1. Clone this repository locally:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/azizs10/WEB-for-your-AI.git)
